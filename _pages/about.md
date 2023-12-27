@@ -164,4 +164,4 @@ Professional Activities
 
 Honors & Awards
 ------
-- PaddlePaddle Developers Experts
+- [PaddlePaddle Developers Experts](https://www.paddlepaddle.org.cn/ppde)
