@@ -159,6 +159,9 @@ Professional Experience
 
 Professional Activities
 ------
+- Conference Reviewer: CVPR
+- Journal Reviewer：Displays
 
 Honors & Awards
 ------
+- PaddlePaddle Developers Experts
