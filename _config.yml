@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yingping Liang"
   avatar           : "50802787.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. student @ Beijing Institute of Technology. My research focuses on data-free learning and 3D vision."
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=dRFMPg8AAAAJ"
-  email            :
+  email            : "liangyingping@bit.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
