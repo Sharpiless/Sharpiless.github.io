@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "liangyingping@bit.edu.cn"
   generatedFields:
     date:
       type               : "date"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yingping Liang"
-  avatar           : "images/50802787.jpg"
+  avatar           : "50802787.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Beijing, China"
   employer         :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
