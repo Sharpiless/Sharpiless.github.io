@@ -121,6 +121,42 @@ Publications
 Professional Experience
 ------
 
+<div>
+<img style="float: left; width: 75px" src="images/redbook.png">
+<img style="float: left" src="border_row1.png" width="10px">
+<p style="line-height:125%">
+  <font size="4"><b>Xiaohongshu, Beijing, China</b><br></font> 
+  <font size="2">October 2022 - December 2023<br></font> 
+  <font size="2">Research Intern<br></font>
+  <font size="2"> Mentored by <a href="https://scholar.google.com/citations?hl=zh-CN&user=SmL7oMQAAAAJ">Jiaming Liu</a></font>
+</p>  
+</div>
+
+<br>
+
+<div>
+<img style="float: left; width: 75px" src="images/sensetime.png">
+<img style="float: left" src="border_row1.png" width="10px">
+<p style="line-height:125%">
+  <font size="4"><b>SenseTime, Beijing, China</b><br></font> 
+  <font size="2">September 2021 - September 2022<br></font> 
+  <font size="2">Research Intern<br></font>
+  <font size="2"> Mentored by <a href="https://whai362.github.io/">Wenhai Wang</a></font>
+</p>  
+</div>
+
+<br>
+
+<div>
+<img style="float: left; width: 75px" src="images/deepblue.png">
+<img style="float: left" src="border_row1.png" width="10px">
+<p style="line-height:125%">
+  <font size="4"><b>DeepBlueAi, Beijing, China</b><br></font> 
+  <font size="2">March 2021 - September 2021<br></font> 
+  <font size="2">Algorithm Intern<br></font>
+</p>  
+</div>
+
 Professional Activities
 ------
 
