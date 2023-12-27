@@ -49,10 +49,10 @@ Publications
 ------
 
 <div>
-  <img style="float: left" src="ICCV-MPI-Flow.gif" width="175px">
+  <img style="float: left" src="images/ICCV-MPI-Flow.gif" width="175px">
 </div>
 <div>
-  <img style="float: left" src="border_row2.png" width="10px">
+  <img style="float: left" src="images/border_row2.png" width="10px">
 </div>
 <div>
   <p style="line-height:125%">
