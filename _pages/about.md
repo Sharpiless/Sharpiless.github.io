@@ -48,6 +48,38 @@ Preprints
 Publications
 ------
 
+<div>
+  <img style="float: left" src="ICCV-MPI-Flow.gif" width="175px">
+</div>
+<div>
+  <img style="float: left" src="border_row2.png" width="10px">
+</div>
+<div>
+  <p style="line-height:125%">
+    <font size="4">
+      <b>MPI-Flow: Learning Realistic Optical Flow with Multiplane Images</b>
+      <br>
+    </font> 
+    <font size="2">
+      <b>Yingping Liang</b>, 
+      <a>Jiaming Liu</a>,
+      <a>Debing Zhang</a> 
+      <a href="https://ying-fu.github.io/">Ying Fu</a> 
+      <br>
+    </font> 
+    <font size="2">
+      International Conference on Computer Vision (<b>ICCV</b>), 2023 
+      <br>
+    </font> 
+    <font size="2">
+      <a href="https://arxiv.org/abs/2309.06714">[paper]</a> / 
+      <a href="https://sites.google.com/view/mpi-flow">[project]</a> /
+      <a href="https://github.com/Sharpiless/MPI-Flow">[code]</a>
+    </font>
+  </p>
+</div>
+
+<br>
 Professional Experience
 ------
 
