@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "中文版"
-permalink: /publications/
+permalink: /ch/
 author_profile: true
 ---
 
