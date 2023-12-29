@@ -165,7 +165,7 @@ Professional Activities
 Honors & Awards
 ------
 - [PaddlePaddle Developers Experts](https://www.paddlepaddle.org.cn/ppde)
-- [Deep Learning Developer Conference Wave Summit, Open Source Rising Star Award](https://www.wavesummit.com.cn/), 2020
+- [Deep Learning Developer Conference Wave Summit](https://www.wavesummit.com.cn/), Open Source Rising Star Award, 2020
 - [UIndergraduate Electronicdesign contest - 2020 Embedded System DesignInvitational Contest (Intel Cup)](https://nuedc.sjtu.edu.cn/CN/Default.aspx), Second Prize, 2020
 - [13th "Challenge Cup" National College Student Business Plan Competition](https://www.tiaozhanbei.net/), First Prize (Rank 1st) , 2022
 - Academic Scholarship of Beijing Institute of Technology, Grand prize, 2023
