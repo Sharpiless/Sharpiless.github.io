@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "中文版"
-excerpt: "中文版"
+permalink: /ch/
 author_profile: true
-redirect_from: 
-  - /ch/
-  - /ch.html
 ---
 
 I am currently a second-year Ph.D. student at [Beijing Institute of Technology](https://english.bit.edu.cn/), under the supervision of Prof. [Ying Fu](https://ying-fu.github.io/). Before that, I received my B.S. degree of Computer Science ([Xuteli School](https://xuteli.bit.edu.cn/)) from Beijing Institute of Technology at 2022.
