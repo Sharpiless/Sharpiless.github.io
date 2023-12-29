@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "中文版"
+    url: /ch/
+    
   - title: "Publications"
     url: /publications/
 
