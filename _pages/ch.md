@@ -199,8 +199,7 @@ author_profile: true
 
 项目经历
 ------
-2022.01-至今
-### 
+
 <div>
 <img style="float: left; width: 75px" src="../images/project1.png">
 <img style="float: left" src="../border_row1.png" width="10px">
