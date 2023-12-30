@@ -23,7 +23,7 @@ author_profile: true
 <p style="line-height:125%">
   <font size="4"><b>北京理工大学</b><br></font> 
   <font size="2">2022.9 -  <br></font> 
-  <font size="2">博士生，就读于<a href="https://cs.bit.edu.cn/">计算机科学与技术</a><br></font>
+  <font size="2">博士生，就读于 <a href="https://cs.bit.edu.cn/">计算机科学业</a><br></font>
 </p>  
 </div>
 
