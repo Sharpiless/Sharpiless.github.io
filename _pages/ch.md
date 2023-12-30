@@ -5,9 +5,9 @@ permalink: /ch/
 author_profile: true
 ---
 
-I am currently a second-year Ph.D. student at [北京理工大学](https://english.bit.edu.cn/), under the supervision of Prof. [Ying Fu](https://ying-fu.github.io/). Before that, I received my B.S. degree of Computer Science ([Xuteli School](https://xuteli.bit.edu.cn/)) from Beijing Institute of Technology at 2022.
+米娜桑大家好，我目前就读于 [北京理工大学](https://english.bit.edu.cn/)，是一名二年级的直博生（2022届）, 导师是[付莹教授](https://ying-fu.github.io/). 在此之前, 我在北京理工大学 ([徐特立学院](https://xuteli.bit.edu.cn/)) 读完了本科（2018届）。
 
-My research interests lies at the intersection of machine learning, computer vision, and computer graphics, including neural rendering, visual geometric computing, and face modeling.
+我目前的研究方向包括：机器学习、计算机视觉和图形学, including neural rendering, visual geometric computing, and face modeling.
 
 News
 ======
