@@ -9,21 +9,21 @@ author_profile: true
 
 我目前的研究方向包括：零样本学习、计算机视觉和图形学。
 
-:fire: News
+:fire: 最新进展
 ======
 - [2023.12] 一篇论文发布在 Arxiv 上。
 
 - [2023.09] 一篇论文被 ICCV'23 接受。
 
-Education Experience
+教育经历
 ------
 <div>
 <img style="float: left; width: 75px" src="../BIT.jpeg">
 <img style="float: left" src="../border_row1.png" width="10px">
 <p style="line-height:125%">
-  <font size="4"><b>Beijing Institute of Technology, Beijing, China</b><br></font> 
-  <font size="2">September 2022 -  <br></font> 
-  <font size="2">Ph.D. in Computer Science at <a href="https://cs.bit.edu.cn/">School of Computer Science & Technology</a><br></font>
+  <font size="4"><b>北京理工大学</b><br></font> 
+  <font size="2">2022.9 -  <br></font> 
+  <font size="2">博士生，就读于<a href="https://cs.bit.edu.cn/">计算机科学与技术</a><br></font>
 </p>  
 </div>
 
@@ -33,13 +33,13 @@ Education Experience
 <img style="float: left; width: 75px" src="../BIT.jpeg">
 <img style="float: left" src="../border_row1.png" width="10px">
 <p style="line-height:125%">
-  <font size="4"><b>Beijing Institute of Technology, Beijing, China</b><br></font> 
-  <font size="2">September 2018 - June 2022<br></font> 
-  <font size="2">B.E. in Computer Science at <a href="https://xuteli.bit.edu.cn/">Xu Class</a><br></font>
+  <font size="4"><b>北京理工大学</b><br></font> 
+  <font size="2">2018.9 - 2022.6<br></font> 
+  <font size="2">本科生，就读于 <a href="https://xuteli.bit.edu.cn/">徐特立学院</a><br></font>
 </p>  
 </div>
 
-Preprints
+预印本
 ------
 
 
@@ -79,7 +79,7 @@ Preprints
 
 <br>
 
-Publications
+发表论文
 ------
 
 <div>
@@ -115,7 +115,7 @@ Publications
 
 <br>
 
-Professional Experience
+实习经历
 ------
 
 <div>
@@ -154,18 +154,50 @@ Professional Experience
 </p>  
 </div>
 
-Professional Activities
+专业经历
 ------
-- Conference Reviewer: CVPR
-- Journal Reviewer：Displays
+- 会议审稿人: CVPR
+- 期刊审稿人：Displays
+- 百度飞桨开发者技术专家
 
-Honors & Awards
+奖项和荣誉
 ------
-- [PaddlePaddle Developers Experts](https://www.paddlepaddle.org.cn/ppde)
-- [Deep Learning Developer Conference Wave Summit](https://www.wavesummit.com.cn/), Open Source Rising Star Award, 2020
-- [UIndergraduate Electronicdesign contest - 2020 Embedded System DesignInvitational Contest (Intel Cup)](https://nuedc.sjtu.edu.cn/CN/Default.aspx), Second Prize, 2020
-- [13th "Challenge Cup" National College Student Business Plan Competition](https://www.tiaozhanbei.net/), First Prize (Rank 1st) , 2022
-- Academic Scholarship of Beijing Institute of Technology, Grand prize, 2023
-
-Opensource Projects
+### 2023
+- 北京理工大学学业奖学金**特等奖**
+- 第十三届“挑战杯”中国大学生创业计划竞赛**金奖**
+- 第八届中国国际“互联网+”大学生创新创业大赛**铜奖**
+- NVIDIA TensorRT Hackathon 生成式 AI 模型优化赛**优胜奖**
+- 第六届“创业北京”创新创业大赛青年创意专项赛**三等奖（第4名）**
+- 第六届“创业北京”创新创业大赛海淀区选拔赛青年创意专项赛**三等奖**
+- 第九届中国国际“互联网+”大学生创新创业大赛北京赛区复赛高教主赛道**一等奖**
+- “京彩大创”北京大学生创新创业大赛科技创新赛道**二等奖**、“**百强创业团队**”
+### 2022
+- CSDN 博客专家
+- 北京理工大学2022届优秀毕业生
+- 北京理工大学徐特立学院荣誉学生
+- 北京理工大学2022届本科生毕业设计（论文）重点项目
+- “青创北京”2022年“挑战杯”首都大学生创业计划竞赛主赛道**金奖**
+- 第八届中国国际“互联网+”大学生创新创业大赛北京赛区复赛高教主赛道**一等奖**
+### 2021
+- 海峡两岸大学生电子设计邀请赛**一等奖**
+- 第三届“交通·未来”大学生科创作品大赛**二等奖**
+- 中国高校计算机大赛——人工智能创意赛总决赛**二等奖**
+- 中国高校计算机大赛——人工智能创意赛华北赛区**二等奖**
+- 第二届江苏大数据开发与应用大赛（华录杯）车联网赛道**优胜奖**
+- 北京理工大学大学生创新创业训练计划**十佳大学生创新训练项目**（两项）
+### 2020
+- 北京理工大学小米奖学金
+- 全国移动互联创新大赛总决赛**二等奖**
+- 海峡两岸大学生电子设计邀请赛**二等奖**
+- 全国移动互联创新大赛（北京赛区）**一等奖**
+- WAVE SUMMIT+ 深度学习开发者大会“**开源新星奖**”
+- 中国高校计算机大赛——人工智能创意赛总决赛**三等奖**
+- 中国高校计算机大赛——人工智能创意赛华北赛区**二等奖**
+- 北京理工大学第十七届“世纪杯”学生课外学术科技作品竞赛**特等奖**
+- 大学生电子设计竞赛——嵌入式系统专题邀请赛（英特尔杯）**二等奖**
+- 第九届“中国软件杯”大学生软件设计大赛总决赛本科、研究生及其它组**二等奖**（两项）
+### 2020
+- 
+  
+开源项目
 ------
