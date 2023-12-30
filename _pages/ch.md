@@ -5,7 +5,7 @@ permalink: /ch/
 author_profile: true
 ---
 
-米娜桑大家好，我目前就读于 [北京理工大学](https://english.bit.edu.cn/)，是一名二年级的直博生（2022届）, 导师是[付莹教授](https://ying-fu.github.io/). 在此之前, 我在北京理工大学 ([徐特立学院](https://xuteli.bit.edu.cn/)) 读完了本科（2018届）。
+米娜桑大家好，我目前就读于 [北京理工大学](https://english.bit.edu.cn/)，是一名二年级的直博生（2022届）, 导师是[付莹教授](https://ying-fu.github.io/)。在此之前, 我在北京理工大学 ([徐特立学院](https://xuteli.bit.edu.cn/)) 完成了本科学业（2018届）。
 
 我目前的研究方向包括：零样本学习、计算机视觉和图形学。
 
