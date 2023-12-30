@@ -7,13 +7,13 @@ author_profile: true
 
 米娜桑大家好，我目前就读于 [北京理工大学](https://english.bit.edu.cn/)，是一名二年级的直博生（2022届）, 导师是[付莹教授](https://ying-fu.github.io/). 在此之前, 我在北京理工大学 ([徐特立学院](https://xuteli.bit.edu.cn/)) 读完了本科（2018届）。
 
-我目前的研究方向包括：机器学习、计算机视觉和图形学, including neural rendering, visual geometric computing, and face modeling.
+我目前的研究方向包括：零样本学习、计算机视觉和图形学。
 
-News
+:fire: News
 ======
-- [2023.12] One paper is posted on Arxiv.
+- [2023.12] 一篇论文发布在 Arxiv 上。
 
-- [2023.09] One paper is accepted by ICCV'23.
+- [2023.09] 一篇论文被 ICCV'23 接受。
 
 Education Experience
 ------
