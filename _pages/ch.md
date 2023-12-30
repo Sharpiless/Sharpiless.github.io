@@ -44,10 +44,10 @@ Preprints
 
 
 <div>
-  <img style="float: left" src="images/ReID3D.png" width="175px">
+  <img style="float: left" src="../images/ReID3D.png" width="175px">
 </div>
 <div>
-  <img style="float: left" src="images/border_row2.png" width="10px">
+  <img style="float: left" src="../images/border_row2.png" width="10px">
 </div>
 <div>
   <p style="line-height:125%">
@@ -83,10 +83,10 @@ Publications
 ------
 
 <div>
-  <img style="float: left" src="images/ICCV-MPI-Flow.gif" width="175px">
+  <img style="float: left" src="../images/ICCV-MPI-Flow.gif" width="175px">
 </div>
 <div>
-  <img style="float: left" src="images/border_row2.png" width="10px">
+  <img style="float: left" src="../images/border_row2.png" width="10px">
 </div>
 <div>
   <p style="line-height:125%">
@@ -119,8 +119,8 @@ Professional Experience
 ------
 
 <div>
-<img style="float: left; width: 75px" src="images/redbook.png">
-<img style="float: left" src="border_row1.png" width="10px">
+<img style="float: left; width: 75px" src="../images/redbook.png">
+<img style="float: left" src="../border_row1.png" width="10px">
 <p style="line-height:125%">
   <font size="4"><b>Xiaohongshu, Beijing, China</b><br></font> 
   <font size="2">October 2022 - December 2023<br></font> 
@@ -132,8 +132,8 @@ Professional Experience
 <br>
 
 <div>
-<img style="float: left; width: 75px" src="images/sensetime.png">
-<img style="float: left" src="border_row1.png" width="10px">
+<img style="float: left; width: 75px" src="../images/sensetime.png">
+<img style="float: left" src="../border_row1.png" width="10px">
 <p style="line-height:125%">
   <font size="4"><b>SenseTime, Beijing, China</b><br></font> 
   <font size="2">September 2021 - September 2022<br></font> 
@@ -145,8 +145,8 @@ Professional Experience
 <br>
 
 <div>
-<img style="float: left; width: 75px" src="images/deepblue.png">
-<img style="float: left" src="border_row1.png" width="10px">
+<img style="float: left; width: 75px" src="../images/deepblue.png">
+<img style="float: left" src="../border_row1.png" width="10px">
 <p style="line-height:125%">
   <font size="4"><b>DeepBlueAi, Beijing, China</b><br></font> 
   <font size="2">March 2021 - September 2021<br></font> 
