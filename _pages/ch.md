@@ -197,6 +197,20 @@ author_profile: true
 - 大学生电子设计竞赛——嵌入式系统专题邀请赛（英特尔杯）**二等奖**
 - 第九届“中国软件杯”大学生软件设计大赛总决赛本科、研究生及其它组 **二等奖**（两项）
 
+项目经历
+------
+2022.01-至今
+### 
+<div>
+<img style="float: left; width: 75px" src="../images/project1.png">
+<img style="float: left" src="../border_row1.png" width="10px">
+<p style="line-height:125%">
+  <font size="4"><b>影豹——极暗光图像增强引擎</b><br></font> 
+  <font size="2">January 2022 - <br></font> 
+  <font size="2">本项目提出了基于 CMOS 光电传感器物理特性噪声模型，对成像的不同物理阶段进行建模。构建大规模低弱光图像数据集，解决低弱光场景下数据难以获取的问题。我们还提出了一种校准现代数码相机噪声参数的方法，该方法对通用光学传感器都可以适用。</font>
+</p>  
+</div>
+
   
 开源项目
 ------
