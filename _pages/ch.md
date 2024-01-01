@@ -218,8 +218,20 @@ author_profile: true
 <img style="float: left" src="../border_row1.png" width="10px">
 <p style="line-height:125%">
   <font size="4"><b>基于华为 Hilens 的智能无人小车</b><br></font> 
-  <font size="2">January 2020 - January 2021<br></font> 
+  <font size="2">September 2020 - September 2021<br></font> 
   <font size="2">本项目在固定赛道中，模拟并训练以提升无人车的准确率，最终实现无人车对交通灯（位于出发点到环岛入口段道路右侧），环岛行驶，U型弯道行驶以及静态障碍物（位置随机）、动态障碍物、泊车标志。使用 Hilens KIT 作为视觉终端，结合 RGB 相机和激光雷达进行感知。</font>
+</p>  
+</div>
+
+<br>
+
+<div>
+<img style="float: left; width: 75px" src="../images/intel-car.png">
+<img style="float: left" src="../border_row1.png" width="10px">
+<p style="line-height:125%">
+  <font size="4"><b>基于英特尔边缘计算平台的智能防疫无人车</b><br></font> 
+  <font size="2">September 2020 - December 2020<br></font> 
+  <font size="2">本项目面向公共场所非接触防疫需求，基于 Jetson 边缘计算平台开发无人防疫小车，支持包括：智能巡检、人员检测识别、口罩佩戴检测以及密集人群识别等多各功能。</font>
 </p>  
 </div>
   
