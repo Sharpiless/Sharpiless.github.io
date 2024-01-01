@@ -23,7 +23,7 @@ author_profile: true
 <p style="line-height:125%">
   <font size="4"><b>北京理工大学</b><br></font> 
   <font size="2">2022.9 -  <br></font> 
-  <font size="2">博士生，就读于 <a href="https://cs.bit.edu.cn/">计算机科学业</a><br></font>
+  <font size="2">博士生，就读于 <a href="https://cs.bit.edu.cn/">计算机科学院</a><br></font>
 </p>  
 </div>
 
@@ -238,10 +238,10 @@ author_profile: true
 开源项目
 ------
 
-- 使用YOLOv5+Deepsort实现车辆行人追踪和计数 ![](https://img.shields.io/github/stars/Sharpiless/Yolov5-deepsort-inference?style=social) | [code](https://github.com/Sharpiless/Yolov5-deepsort-inference)
-- Yolov5知识蒸馏训练，支持训练自己的数据 ![](https://img.shields.io/github/stars/Sharpiless/Yolov5-distillation-train-inference?style=social) | [code](https://github.com/Sharpiless/Yolov5-distillation-train-inference)
+- 使用YOLOv5+Deepsort实现车辆行人追踪和计数 ![](https://img.shields.io/github/stars/Sharpiless/Yolov5-deepsort-inference?style=social)                     | [code](https://github.com/Sharpiless/Yolov5-deepsort-inference)
+- Yolov5知识蒸馏训练，支持训练自己的数据 ![](https://img.shields.io/github/stars/Sharpiless/Yolov5-distillation-train-inference?style=social)               | [code](https://github.com/Sharpiless/Yolov5-distillation-train-inference)
 - 用强化学习DQN算法，训练AI模型来玩合成大西瓜游戏 ![](https://img.shields.io/github/stars/Sharpiless/play-daxigua-using-Reinforcement-Learning?style=social) | [code](https://github.com/Sharpiless/play-daxigua-using-Reinforcement-Learning)
-- 基于Flask+VUE前后端，在阿里云公网WEB端部署YOLOv5目标检测模型 ![](https://img.shields.io/github/stars/Sharpiless/Yolov5-Flask-VUE?style=social) | [code](https://github.com/Sharpiless/Yolov5-Flask-VUE)
+- 基于Flask+VUE前后端，在阿里云公网WEB端部署YOLOv5目标检测模型 ![](https://img.shields.io/github/stars/Sharpiless/Yolov5-Flask-VUE?style=social)             | [code](https://github.com/Sharpiless/Yolov5-Flask-VUE)
 
 联系我
 ------
