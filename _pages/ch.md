@@ -246,4 +246,4 @@ author_profile: true
 联系我
 ------
 
-![](../images/wechat.png)
+<img src="../images/wechat.png" width="30%" height="30%">
