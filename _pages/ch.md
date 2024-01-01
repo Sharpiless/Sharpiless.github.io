@@ -181,6 +181,7 @@ author_profile: true
 ### 2021
 - 海峡两岸大学生电子设计邀请赛 **一等奖**
 - 第三届“交通·未来”大学生科创作品大赛 **二等奖**
+- 华为中国大学生 ICT 大赛创新赛全国总决赛 **三等奖**
 - 中国高校计算机大赛——人工智能创意赛总决赛 **二等奖**
 - 中国高校计算机大赛——人工智能创意赛华北赛区 **二等奖**
 - 第二届江苏大数据开发与应用大赛（华录杯）车联网赛道 **优胜奖**
@@ -210,6 +211,17 @@ author_profile: true
 </p>  
 </div>
 
+<br>
+
+<div>
+<img style="float: left; width: 75px" src="../images/huawei-car.png">
+<img style="float: left" src="../border_row1.png" width="10px">
+<p style="line-height:125%">
+  <font size="4"><b>基于华为 Hilens 的智能无人小车</b><br></font> 
+  <font size="2">January 2020 - January 2021<br></font> 
+  <font size="2">本项目在固定赛道中，模拟并训练以提升无人车的准确率，最终实现无人车对交通灯（位于出发点到环岛入口段道路右侧），环岛行驶，U型弯道行驶以及静态障碍物（位置随机）、动态障碍物、泊车标志。使用 Hilens KIT 作为视觉终端，结合 RGB 相机和激光雷达进行感知。</font>
+</p>  
+</div>
   
 开源项目
 ------
