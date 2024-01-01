@@ -12,7 +12,7 @@ I am currently a second-year Ph.D. student at [Beijing Institute of Technology](
 
 My research interests lies at the intersection of data-free learning, computer vision, and computer graphics.
 
-:fire: News
+News
 ======
 - [2023.12] One paper is posted on Arxiv.
 
