@@ -237,6 +237,18 @@ author_profile: true
   <font size="2">本项目面向公共场所非接触防疫需求，基于 Jetson 边缘计算平台开发无人防疫小车，支持包括：智能巡检、人员检测识别、口罩佩戴检测以及密集人群识别等多各功能。</font>
 </p>  
 </div>
+
+<br>
+
+<div>
+<img style="float: left; width: 75px" src="../images/project-driver.png">
+<img style="float: left" src="../border_row1.png" width="10px">
+<p style="line-height:125%">
+  <font size="4"><b>AI鹰眼——驾驶员安全守护系统</b><br></font> 
+  <font size="2">May 2020 - August 2020<br></font> 
+  <font size="2">该项目主要包括两个算法模块：1）基于时序卷积神经网络的人脸关键点数据融合模块，用于驾驶员疲劳状态监测的；2）基于YOLOv5目标监测和Deepsort追踪算法的驾驶员行为理解和识别模块，用于驾驶员危险行为监测（例如：吸烟、喝水、打电话等）。</font>
+</p>  
+</div>
   
 开源项目
 ------
