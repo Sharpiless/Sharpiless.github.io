@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year Ph.D. student at [Beijing Institute of Technology](https://english.bit.edu.cn/), under the supervision of Prof. [Ying Fu](https://ying-fu.github.io/). Before that, I received my B.S. degree of Computer Science ([Xuteli School](https://xuteli.bit.edu.cn/)) from Beijing Institute of Technology at 2022.
+I am currently a second-year Ph.D. student at [Beijing Institute of Technology](https://english.bit.edu.cn/), under the supervision of Prof. [Ying Fu](https://ying-fu.github.io/). Before that, I received my B.S. degree of Computer Science ([Xuteli School](https://xuteli.bit.edu.cn/)) from Beijing Institute of Technology at 2022. See also my chinese homepage at [中文版](https://sharpiless.github.io/ch/).
 
 My research interests lies at the intersection of data-free learning, computer vision, and computer graphics.
 
