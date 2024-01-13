@@ -205,7 +205,7 @@ author_profile: true
 ------
 
 <div>
-<img style="float: left; width: 75px" src="../images/a2rl">
+<img style="float: left; width: 75px" src="../images/a2rl.png">
 <img style="float: left" src="../border_row1.png" width="10px">
 <p style="line-height:125%">
   <font size="4"><b>无人方程式赛车</b><br></font> 
