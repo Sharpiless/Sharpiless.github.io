@@ -69,7 +69,7 @@ Preprints
       <br>
     </font> 
     <font size="2">
-      <a href="">[paper]</a> / 
+      <a href="https://github.com/Sharpiless/CascadeV-Det/blob/main/paper.pdf">[paper]</a> / 
       <a href="https://github.com/Sharpiless/CascadeV-Det">[project]</a> /
       <a href="https://github.com/Sharpiless/CascadeV-Det">[code]</a>
     </font>
