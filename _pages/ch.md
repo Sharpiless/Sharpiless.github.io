@@ -210,7 +210,7 @@ author_profile: true
 <p style="line-height:125%">
   <font size="4"><b>无人方程式赛车</b><br></font> 
   <font size="2">October 2023 - <br></font> 
-  <font size="2">担任感知组组长，我们将在阿布扎比标志性的亚斯码头赛道（Yas Marina Circuit）上挑战自动驾驶汽车的极限，届时将有超级方程式赛车亮相。</font>
+  <font size="2">担任感知组组长，我们将在阿布扎比标志性的亚斯码头赛道（Yas Marina Circuit）上挑战自动驾驶汽车的极限，届时将有超级方程式赛车（F1）亮相。</font>
 </p>  
 </div>
 
