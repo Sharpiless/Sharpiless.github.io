@@ -14,6 +14,8 @@ My research interests lies at the intersection of data-free learning, computer v
 
 News
 ======
+- [2024.01] One paper is posted on Arxiv.
+
 - [2023.12] One paper is posted on Arxiv.
 
 - [2023.09] One paper is accepted by ICCV'23.
@@ -81,6 +83,35 @@ Preprints
 </div>
 
 <br>
+
+<div>
+  <img style="float: left" src="images/cascadev-det.png" width="175px">
+</div>
+<div>
+  <img style="float: left" src="images/border_row2.png" width="10px">
+</div>
+<div>
+  <p style="line-height:125%">
+    <font size="4">
+      <b>CascadeV-Det: Cascade Point Voting for 3D Object Detection</b>
+      <br>
+    </font> 
+    <font size="2">
+      <b>Yingping Liang</b>, 
+      <a href="https://ying-fu.github.io/">Ying Fu</a>
+      <br>
+    </font> 
+    <font size="2">
+      Arxiv Preprint, 2023.12 
+      <br>
+    </font> 
+    <font size="2">
+      <a href="">[paper]</a> / 
+      <a href="https://github.com/Sharpiless/CascadeV-Det">[project]</a> /
+      <a href="https://github.com/Sharpiless/CascadeV-Det">[code]</a>
+    </font>
+  </p>
+</div>
 
 Publications
 ------
