@@ -47,6 +47,36 @@ Education Experience
 Preprints
 ------
 
+<div>
+  <img style="float: left" src="images/cascadev-det.png" width="175px">
+</div>
+<div>
+  <img style="float: left" src="images/border_row2.png" width="10px">
+</div>
+<div>
+  <p style="line-height:125%">
+    <font size="4">
+      <b>CascadeV-Det: Cascade Point Voting for 3D Object Detection</b>
+      <br>
+    </font> 
+    <font size="2">
+      <b>Yingping Liang</b>, 
+      <a href="https://ying-fu.github.io/">Ying Fu</a>
+      <br>
+    </font> 
+    <font size="2">
+      Arxiv Preprint, 2023.12 
+      <br>
+    </font> 
+    <font size="2">
+      <a href="">[paper]</a> / 
+      <a href="https://github.com/Sharpiless/CascadeV-Det">[project]</a> /
+      <a href="https://github.com/Sharpiless/CascadeV-Det">[code]</a>
+    </font>
+  </p>
+</div>
+
+<br>
 
 <div>
   <img style="float: left" src="images/ReID3D.png" width="175px">
@@ -78,37 +108,6 @@ Preprints
       <a href="https://arxiv.org/abs/2312.03033">[paper]</a> / 
       <a href="https://github.com/GWxuan/ReID3D">[project]</a> /
       <a href="https://github.com/GWxuan/ReID3D">[code]</a>
-    </font>
-  </p>
-</div>
-
-<br>
-
-<div>
-  <img style="float: left" src="images/cascadev-det.png" width="175px">
-</div>
-<div>
-  <img style="float: left" src="images/border_row2.png" width="10px">
-</div>
-<div>
-  <p style="line-height:125%">
-    <font size="4">
-      <b>CascadeV-Det: Cascade Point Voting for 3D Object Detection</b>
-      <br>
-    </font> 
-    <font size="2">
-      <b>Yingping Liang</b>, 
-      <a href="https://ying-fu.github.io/">Ying Fu</a>
-      <br>
-    </font> 
-    <font size="2">
-      Arxiv Preprint, 2023.12 
-      <br>
-    </font> 
-    <font size="2">
-      <a href="">[paper]</a> / 
-      <a href="https://github.com/Sharpiless/CascadeV-Det">[project]</a> /
-      <a href="https://github.com/Sharpiless/CascadeV-Det">[code]</a>
     </font>
   </p>
 </div>
