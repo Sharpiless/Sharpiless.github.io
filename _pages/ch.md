@@ -66,7 +66,7 @@ author_profile: true
       <br>
     </font> 
     <font size="2">
-      <a href="https://github.com/Sharpiless/CascadeV-Det/blob/main/paper.pdf">[paper]</a> / 
+      <a href="https://arxiv.org/abs/2401.07477">[paper]</a> / 
       <a href="https://github.com/Sharpiless/CascadeV-Det">[project]</a> /
       <a href="https://github.com/Sharpiless/CascadeV-Det">[code]</a>
     </font>
