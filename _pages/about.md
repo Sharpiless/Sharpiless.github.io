@@ -208,7 +208,7 @@ Projects
 <p style="line-height:125%">
   <font size="4"><b>Autonomous Vehicle Racing (F1)</b><br></font> 
   <font size="2">October 2023 - <br></font> 
-  <font size="2">I'm going to extend the world's largest autonomous racing league - A2RL! I am currently the head of the Algorithm Group, responsible for multi-sensor fusion.</font>
+  <font size="2">We are going to participate in the world's largest autonomous racing league - A2RL! I am currently the head of the Algorithm Group, responsible for multi-sensor fusion.</font>
 </p>  
 </div>
 
