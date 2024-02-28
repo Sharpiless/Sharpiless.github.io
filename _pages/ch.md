@@ -197,9 +197,9 @@ author_profile: true
 <img style="float: left; width: 75px" src="../images/a2rl.png">
 <img style="float: left" src="../border_row1.png" width="10px">
 <p style="line-height:125%">
-  <font size="4"><b>无人方程式赛车</b><br></font> 
+  <font size="4"><b>A2RL 无人方程式赛车</b><br></font> 
   <font size="2">October 2023 - <br></font> 
-  <font size="2">担任感知组组长，负责多传感器标定和融合、高精地图构建以及 3D 目标检测。我们将在阿布扎比标志性的亚斯码头赛道（Yas Marina Circuit）上挑战自动驾驶汽车的极限，届时将有超级方程式赛车（F1）亮相。</font>
+  <font size="2">担任感知组组长，负责多传感器融合定位、高精地图构建以及 3D 目标检测。我们将在阿布扎比标志性的亚斯码头赛道（Yas Marina Circuit）上挑战自动驾驶汽车的极限，届时将有超级方程式赛车（F1）亮相。</font>
 </p>  
 </div>
 
@@ -278,6 +278,7 @@ author_profile: true
 - 中国高校计算机大赛——人工智能创意赛总决赛 **二等奖**
 - 中国高校计算机大赛——人工智能创意赛华北赛区 **二等奖**
 - 第二届江苏大数据开发与应用大赛（华录杯）车联网赛道 **优胜奖**
+- 天池大数据竞赛——全球人工智能技术创新大赛【赛道二】**第13/4256名**
 - 北京理工大学大学生创新创业训练计划 **十佳大学生创新训练项目**（两项）
 
 ### 2020
