@@ -75,42 +75,6 @@ author_profile: true
 
 <br>
 
-<div>
-  <img style="float: left" src="../images/ReID3D.png" width="175px">
-</div>
-<div>
-  <img style="float: left" src="../images/border_row2.png" width="10px">
-</div>
-<div>
-  <p style="line-height:125%">
-    <font size="4">
-      <b>LiDAR-based Person Re-identification</b>
-      <br>
-    </font> 
-    <font size="2">
-      Wenxuan Guo,
-      Zhiyu Pan, 
-      <b>Yingping Liang</b>, 
-      Ziheng Xi,
-      Zhichen Zhong,
-      Jianjiang Feng,
-      Jie Zhou
-      <br>
-    </font> 
-    <font size="2">
-      Arxiv Preprint, 2023.12 
-      <br>
-    </font> 
-    <font size="2">
-      <a href="https://arxiv.org/abs/2312.03033">[paper]</a> / 
-      <a href="https://github.com/GWxuan/ReID3D">[project]</a> /
-      <a href="https://github.com/GWxuan/ReID3D">[code]</a>
-    </font>
-  </p>
-</div>
-
-<br>
-
 发表论文
 ------
 
@@ -146,6 +110,40 @@ author_profile: true
 </div>
 
 <br>
+
+<div>
+  <img style="float: left" src="../images/ReID3D.png" width="175px">
+</div>
+<div>
+  <img style="float: left" src="../images/border_row2.png" width="10px">
+</div>
+<div>
+  <p style="line-height:125%">
+    <font size="4">
+      <b>LiDAR-based Person Re-identification</b>
+      <br>
+    </font> 
+    <font size="2">
+      Wenxuan Guo,
+      Zhiyu Pan, 
+      <b>Yingping Liang</b>, 
+      Ziheng Xi,
+      Zhichen Zhong,
+      Jianjiang Feng,
+      Jie Zhou
+      <br>
+    </font> 
+    <font size="2">
+      The IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2024 
+      <br>
+    </font> 
+    <font size="2">
+      <a href="https://arxiv.org/abs/2312.03033">[paper]</a> / 
+      <a href="https://github.com/GWxuan/ReID3D">[project]</a> /
+      <a href="https://github.com/GWxuan/ReID3D">[code]</a>
+    </font>
+  </p>
+</div>
 
 实习经历
 ------
