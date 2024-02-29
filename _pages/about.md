@@ -14,10 +14,8 @@ My research interests lies at the intersection of data-free learning, computer v
 
 News
 ======
+- [2024.01] One paper is accepted by CVPR'24 (444).
 - [2024.01] One paper is posted on Arxiv.
-
-- [2023.12] One paper is posted on Arxiv.
-
 - [2023.09] One paper is accepted by ICCV'23.
 
 Education Experience
