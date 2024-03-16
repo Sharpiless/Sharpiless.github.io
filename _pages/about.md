@@ -186,7 +186,7 @@ Professional Experience
 Professional Activities
 ------
 - Conference Reviewer: CVPR
-- Journal Reviewer：Displays
+- Journal Reviewer：Displays, CAAI
 
 Honors & Awards
 ------
