@@ -200,11 +200,13 @@ Professional Activities
 
 Honors & Awards
 ------
+- international exhibition of inventions of geneva, gold prize, Gold Medal, 2024
 - [PaddlePaddle Developers Experts](https://www.paddlepaddle.org.cn/ppde)
 - [Deep Learning Developer Conference Wave Summit](https://www.wavesummit.com.cn/), Open Source Rising Star Award, 2020
 - [UIndergraduate Electronicdesign contest - 2020 Embedded System DesignInvitational Contest (Intel Cup)](https://nuedc.sjtu.edu.cn/CN/Default.aspx), Second Prize, 2020
 - [13th "Challenge Cup" National College Student Business Plan Competition](https://www.tiaozhanbei.net/), First Prize (Rank 1st) , 2022
 - Academic Scholarship of Beijing Institute of Technology, Grand prize, 2023
+- See more in [Chinese homepage](https://sharpiless.github.io/ch/).
 
 Projects
 ------
