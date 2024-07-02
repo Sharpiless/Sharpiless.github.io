@@ -9,6 +9,8 @@ author_profile: true
 
 最新进展
 ======
+- [2024.03] 一篇论文被 ECCV'24 接收。
+
 - [2024.03] 一篇论文被 CVPR'24 接收。
 
 - [2023.12] 一篇论文发布在 Arxiv 上。
@@ -87,6 +89,77 @@ Github
 ------
 
 <div>
+  <img style="float: left" src="../images/ECCV2024.png" width="175px">
+</div>
+<div>
+  <img style="float: left" src="../images/border_row2.png" width="10px">
+</div>
+<div>
+  <p style="line-height:125%">
+    <font size="4">
+      <b>Camera-LiDAR Cross-modality Gait Recognition</b>
+      <br>
+    </font> 
+    <font size="2">
+      Wenxuan Guo* (Tsinghua University),
+      <b>Yingping Liang*</b>,
+      Zhiyu Pan,
+      Ziheng Xi, 
+      Jianjiang Feng,
+      Jie Zhou
+      <br>
+    </font> 
+    <font size="2">
+      European Conference on Computer Vision 2024 (<b>ECCV</b>), 2024
+      <br>
+    </font> 
+    <font size="2">
+      <a>[paper]</a> / 
+      <a>[project]</a> /
+      <a>[code]</a>
+    </font>
+  </p>
+</div>
+
+<br>
+
+<div>
+  <img style="float: left" src="../images/ReID3D.png" width="175px">
+</div>
+<div>
+  <img style="float: left" src="../images/border_row2.png" width="10px">
+</div>
+<div>
+  <p style="line-height:125%">
+    <font size="4">
+      <b>LiDAR-based Person Re-identification</b>
+      <br>
+    </font> 
+    <font size="2">
+      Wenxuan Guo (Tsinghua University),
+      Zhiyu Pan, 
+      <b>Yingping Liang</b>, 
+      Ziheng Xi,
+      Zhichen Zhong,
+      Jianjiang Feng,
+      Jie Zhou
+      <br>
+    </font> 
+    <font size="2">
+      The IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2024 
+      <br>
+    </font> 
+    <font size="2">
+      <a href="https://arxiv.org/abs/2312.03033">[paper]</a> / 
+      <a href="https://github.com/GWxuan/ReID3D">[project]</a> /
+      <a href="https://github.com/GWxuan/ReID3D">[code]</a>
+    </font>
+  </p>
+</div>
+
+<br>
+
+<div>
   <img style="float: left" src="../images/ICCV-MPI-Flow.gif" width="175px">
 </div>
 <div>
@@ -113,42 +186,6 @@ Github
       <a href="https://arxiv.org/abs/2309.06714">[paper]</a> / 
       <a href="https://sites.google.com/view/mpi-flow">[project]</a> /
       <a href="https://github.com/Sharpiless/MPI-Flow">[code]</a>
-    </font>
-  </p>
-</div>
-
-<br>
-
-<div>
-  <img style="float: left" src="../images/ReID3D.png" width="175px">
-</div>
-<div>
-  <img style="float: left" src="../images/border_row2.png" width="10px">
-</div>
-<div>
-  <p style="line-height:125%">
-    <font size="4">
-      <b>LiDAR-based Person Re-identification</b>
-      <br>
-    </font> 
-    <font size="2">
-      Wenxuan Guo,
-      Zhiyu Pan, 
-      <b>Yingping Liang</b>, 
-      Ziheng Xi,
-      Zhichen Zhong,
-      Jianjiang Feng,
-      Jie Zhou
-      <br>
-    </font> 
-    <font size="2">
-      The IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2024 
-      <br>
-    </font> 
-    <font size="2">
-      <a href="https://arxiv.org/abs/2312.03033">[paper]</a> / 
-      <a href="https://github.com/GWxuan/ReID3D">[project]</a> /
-      <a href="https://github.com/GWxuan/ReID3D">[code]</a>
     </font>
   </p>
 </div>
