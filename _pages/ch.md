@@ -114,7 +114,7 @@ Github
       <br>
     </font> 
     <font size="2">
-      <a>[paper]</a> / 
+      <a href="https://arxiv.org/abs/2407.02038">[paper]</a> / 
       <a>[project]</a> /
       <a>[code]</a>
     </font>
