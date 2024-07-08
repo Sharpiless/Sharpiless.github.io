@@ -14,7 +14,8 @@ My research interests lies at the intersection of data-free learning, computer v
 
 News
 ======
-- [2024.01] One paper is accepted by CVPR'24 (444).
+- [2024.07] One paper is accepted by ECCV'24.
+- [2024.01] One paper is accepted by CVPR'24.
 - [2024.01] One paper is posted on Arxiv.
 - [2023.09] One paper is accepted by ICCV'23.
 
@@ -86,6 +87,40 @@ Preprints
 
 Publications
 ------
+<div>
+  <img style="float: left" src="../images/ECCV2024.png" width="175px">
+</div>
+<div>
+  <img style="float: left" src="../images/border_row2.png" width="10px">
+</div>
+<div>
+  <p style="line-height:125%">
+    <font size="4">
+      <b>Camera-LiDAR Cross-modality Gait Recognition</b>
+      <br>
+    </font> 
+    <font size="2">
+      Wenxuan Guo* (Tsinghua University),
+      <b>Yingping Liang*</b>,
+      Zhiyu Pan,
+      Ziheng Xi, 
+      Jianjiang Feng,
+      Jie Zhou
+      <br>
+    </font> 
+    <font size="2">
+      European Conference on Computer Vision 2024 (<b>ECCV</b>), 2024
+      <br>
+    </font> 
+    <font size="2">
+      <a href="https://arxiv.org/abs/2407.02038">[paper]</a> / 
+      <a>[project]</a> /
+      <a>[code]</a>
+    </font>
+  </p>
+</div>
+
+<br>
 
 <div>
   <img style="float: left" src="images/ICCV-MPI-Flow.gif" width="175px">
