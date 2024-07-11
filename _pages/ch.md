@@ -115,8 +115,8 @@ Github
     </font> 
     <font size="2">
       <a href="https://arxiv.org/abs/2407.02038">[paper]</a> / 
-      <a>[project]</a> /
-      <a>[code]</a>
+      <a herf="https://github.com/GWxuan/CL-Gait">[project]</a> /
+      <a herf="https://github.com/GWxuan/CL-Gait">[code]</a>
     </font>
   </p>
 </div>
