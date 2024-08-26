@@ -211,9 +211,21 @@ Github
 <img style="float: left" src="../border_row1.png" width="10px">
 <p style="line-height:125%">
   <font size="4"><b>上海 AI Lab</b><br></font> 
-  <font size="2">September 2021 - September 2022<br></font> 
+  <font size="2">June 2022 - September 2022<br></font> 
   <font size="2">研究实习生<br></font>
   <font size="2"> Mentored by <a href="https://whai362.github.io/">Wenhai Wang</a></font>
+</p>  
+</div>
+
+<br>
+
+<div>
+<img style="float: left; width: 75px" src="../images/sensetime.png">
+<img style="float: left" src="../border_row1.png" width="10px">
+<p style="line-height:125%">
+  <font size="4"><b>商汤科技</b><br></font> 
+  <font size="2">September 2021 - June 2022<br></font> 
+  <font size="2">研究实习生<br></font>
 </p>  
 </div>
 
