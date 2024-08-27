@@ -22,8 +22,6 @@ Github
 
 [https://github.com/Sharpiless](https://github.com/Sharpiless)
 
-<image src="https://github-readme-stats.vercel.app/api?username=sharpiless&show_icons=true&theme=tokyonight" width=400>
-
 
 教育经历
 ------
