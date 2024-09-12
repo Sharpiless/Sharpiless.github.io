@@ -7,6 +7,14 @@ author_profile: true
 
 米娜桑大家好，我目前就读于 [北京理工大学](https://english.bit.edu.cn/)，是一名二年级的直博生（2022届）。在此之前, 我在北京理工大学 ([徐特立学院](https://xuteli.bit.edu.cn/)) 完成了本科学业（2018届）。曾担任北京理工大学人工智能俱乐部主任（2021年~2022年），获百度飞桨“开源新星奖”（5人/年），曾获北京理工大学 2024 年度“科研创新榜样”（5人/年）。我致力于人工智能开源社区建设。我目前的研究方向包括：零样本学习、3D 视觉和图形学，目前专注于 AI4Science（材料科学）。
 
+社交媒体
+======
+小红书号：[5661654446](https://www.xiaohongshu.com/user/profile/632d633d000000002302409f)
+
+BiliBili、CSDN：[BIT可达鸭](https://space.bilibili.com/470550823)
+
+Github：[Sharpiless](https://github.com/Sharpiless)
+
 最新进展
 ======
 - [2024.07] 一篇论文被 ECCV'24 接收。
@@ -234,7 +242,7 @@ author_profile: true
 
 专业经历
 ------
-- 会议审稿人: CVPR'24
+- 会议审稿人: CVPR'24、CICAI'24
 - 期刊审稿人：Displays
 - 百度飞桨开发者技术专家
 
@@ -360,7 +368,5 @@ author_profile: true
 
 <img src="../images/wechat.png" width="30%" height="30%">
 
-
-<br></br>
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
