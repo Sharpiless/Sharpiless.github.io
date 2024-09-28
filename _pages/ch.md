@@ -250,11 +250,11 @@ Github：[Sharpiless](https://github.com/Sharpiless)
 ------
 
 <div>
-<img style="float: left; width: 375px" src="../images/a2rl.png">
+<img style="float: left; width: 375px" src="../images/bee.png">
 <p style="line-height:125%">
-  <font size="4"><b>A2RL 无人方程式赛车</b><br></font> 
+  <font size="4"><b>Bee Tracker 3D</b><br></font> 
   <font size="2">October 2023 - May 2024 <br></font> 
-  <font size="2">担任感知组组长，负责多传感器融合定位、高精地图构建以及 3D 目标检测。我们将在阿布扎比标志性的亚斯码头赛道（Yas Marina Circuit）上挑战自动驾驶汽车的极限，届时将有超级方程式赛车（F1）亮相。</font>
+  <font size="2">基于机器学习的视频分析软件，用于评估三维空间中腔巢独居蜜蜂的筑巢和觅食性能，使用yolov8进行检测，使用立体匹配进行双目深度估计和三维定位。</font>
 </p>  
 </div>
 
