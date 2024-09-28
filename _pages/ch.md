@@ -250,8 +250,7 @@ Github：[Sharpiless](https://github.com/Sharpiless)
 ------
 
 <div>
-<img style="float: left; width: 75px" src="../images/a2rl.png">
-<img style="float: left" src="../border_row1.png" width="10px">
+<img style="float: left; width: 375px" src="../images/a2rl.png">
 <p style="line-height:125%">
   <font size="4"><b>A2RL 无人方程式赛车</b><br></font> 
   <font size="2">October 2023 - May 2024 <br></font> 
@@ -262,8 +261,18 @@ Github：[Sharpiless](https://github.com/Sharpiless)
 <br>
 
 <div>
-<img style="float: left; width: 75px" src="../images/project1.png">
-<img style="float: left" src="../border_row1.png" width="10px">
+<img style="float: left; width: 375px" src="../images/a2rl.png">
+<p style="line-height:125%">
+  <font size="4"><b>A2RL 无人方程式赛车</b><br></font> 
+  <font size="2">October 2023 - May 2024 <br></font> 
+  <font size="2">担任感知组组长，负责多传感器融合定位、高精地图构建以及 3D 目标检测。我们将在阿布扎比标志性的亚斯码头赛道（Yas Marina Circuit）上挑战自动驾驶汽车的极限，届时将有超级方程式赛车（F1）亮相。</font>
+</p>  
+</div>
+
+<br>
+
+<div>
+<img style="float: left; width: 375px" src="../images/project1.png">
 <p style="line-height:125%">
   <font size="4"><b>影豹——极暗光图像增强引擎</b><br></font> 
   <font size="2">January 2022 - <br></font> 
@@ -274,8 +283,7 @@ Github：[Sharpiless](https://github.com/Sharpiless)
 <br>
 
 <div>
-<img style="float: left; width: 75px" src="../images/huawei-car.png">
-<img style="float: left" src="../border_row1.png" width="10px">
+<img style="float: left; width: 375px" src="../images/huawei-car.png">
 <p style="line-height:125%">
   <font size="4"><b>基于华为 Hilens 的智能无人小车</b><br></font> 
   <font size="2">September 2020 - September 2021<br></font> 
@@ -286,8 +294,7 @@ Github：[Sharpiless](https://github.com/Sharpiless)
 <br>
 
 <div>
-<img style="float: left; width: 75px" src="../images/intel-car.png">
-<img style="float: left" src="../border_row1.png" width="10px">
+<img style="float: left; width: 375px" src="../images/intel-car.png">
 <p style="line-height:125%">
   <font size="4"><b>基于英特尔边缘计算平台的智能防疫无人车</b><br></font> 
   <font size="2">September 2020 - December 2020<br></font> 
@@ -298,8 +305,7 @@ Github：[Sharpiless](https://github.com/Sharpiless)
 <br>
 
 <div>
-<img style="float: left; width: 75px" src="../images/project-driver.png">
-<img style="float: left" src="../border_row1.png" width="10px">
+<img style="float: left; width: 375px" src="../images/project-driver.png">
 <p style="line-height:125%">
   <font size="4"><b>AI鹰眼——驾驶员安全守护系统</b><br></font> 
   <font size="2">May 2020 - August 2020<br></font> 
